@@ -6,11 +6,17 @@
     android:layout_height="match_parent"
     tools:context="com.gertec.heatmapexample.MainActivity">
 
+
     <ca.hss.heatmaplib.HeatMap
         android:id="@+id/heatmap"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        app:maxDrawingHeight="100dp"
+        app:maxDrawingWidth="100dp"
         app:minOpacity="0"
-        app:maxOpacity="255" />
+        app:maxOpacity="255"
+        android:background="@drawable/borda"/>
 
 </RelativeLayout>
