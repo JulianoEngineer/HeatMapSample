@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HeatMapSample.iml" filepath="$PROJECT_DIR$/HeatMapSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/heatMap.iml" filepath="$PROJECT_DIR$/heatMap.iml" />
+      <module fileurl="file://C:\Users\Jarvis\Documents\GitHub\HeatMapSample\heatMap.iml" filepath="C:\Users\Jarvis\Documents\GitHub\HeatMapSample\heatMap.iml" />
     </modules>
   </component>
 </project>
